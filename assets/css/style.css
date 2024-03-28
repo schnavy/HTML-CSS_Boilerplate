@@ -1,0 +1,33 @@
+/* include your fonts */
+@font-face {
+  font-family: "Clouds";
+  src: url("../fonts/APL385.woff2") format("woff2"),
+    url("../fonts/APL385.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* keep this to get rid of the default styling */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* your own styling */
+h1 {
+  font-family: "Clouds";
+  margin: 20px;
+}
+
+.lower-text {
+  font-family: system-ui, sans-serif;
+  position: absolute;
+  text-align: center;
+  margin: 20px;
+  bottom: 0px;
+  left: 0px;
+  background-color: #e6ebef;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
