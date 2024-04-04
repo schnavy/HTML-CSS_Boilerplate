@@ -76,7 +76,7 @@ It is important to use specific Elements for their purpose in order to make the 
     *   `font-size`: Size of the text.
     *   `margin`: Space around elements.
     *   `padding`: Space inside elements.
-    *   ...
+    *   All Properties: https://www.w3schools.com/cssref/index.php
 
 ### 4\. **Intermediate CSS: Colors, Typography and assets**
 
