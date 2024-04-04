@@ -1,8 +1,8 @@
 /* include your fonts */
 @font-face {
   font-family: "Clouds";
-  src: url("../fonts/APL385.woff2") format("woff2"),
-    url("../fonts/APL385.woff") format("woff");
+  src: url("../assets/fonts/APL385.woff2") format("woff2"),
+    url("../assets/fonts/APL385.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;

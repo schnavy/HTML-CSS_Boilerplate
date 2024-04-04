@@ -17,8 +17,7 @@ In the following you will find an expanding Cheatsheet for the HTML and CSS Basi
 *   **`/index.html`**: The main HTML file.
 *   **`/css`**: Folder for CSS files.
     *   **`/css/style.css`**: Main stylesheet.
-*   **`/js`**: Folder for JavaScript files.
-*   **`/assets`**: Folder for images and other media.
+*   **`/assets`**: Folder for images, fonts and other media.
 
 ### 2\. **HTML Elements and Structure**
 
