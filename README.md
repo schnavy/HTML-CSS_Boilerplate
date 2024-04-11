@@ -12,7 +12,7 @@ In the following you will find an expanding Cheatsheet for the HTML and CSS Basi
 *   Follow the installation instructions for your operating system.
 *   Recommended extensions for web development: Live Server, Prettier, ESLint.
 
-#### Repo Structure
+#### Repository Structure
 
 *   **`/index.html`**: The main HTML file.
 *   **`/css`**: Folder for CSS files.
